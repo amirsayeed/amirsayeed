@@ -1,3 +1,5 @@
+<img src="https://github.com/amirsayeed/amirsayeed/blob/main/bannerImg.png"/>
+
 # 💫 About Me:
 I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foundation in modern web technologies and a problem-solving mindset. I specialize in building responsive, secure, and scalable web applications that prioritize performance and user experience. I’m deeply committed to writing clean, maintainable code and continuously learning to stay aligned with industry best practices.
 
