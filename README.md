@@ -32,11 +32,13 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 
 # 📊 GitHub Stats:
 <div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=amirsayeed&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ## 🏆 GitHub Trophies
@@ -44,8 +46,11 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 
 ### 🔝 Top Contributed Repo
 <div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=amirsayeed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
+
 ---
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=amirsayeed.amirsayeed)
 
