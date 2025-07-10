@@ -42,7 +42,11 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 </div>
 
 ## 🏆 GitHub Trophies
+<div align = 'center'>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=amirsayeed&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
