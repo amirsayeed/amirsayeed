@@ -52,7 +52,7 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amirsayeed&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=amirsayeed&color=blue)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
