@@ -1,5 +1,11 @@
 <img src="https://github.com/amirsayeed/amirsayeed/blob/main/Github Banner.png" width="100%" height="450" alt="Banner"/>
 
+<h1 align="center">Hi, I am Amir Mohammad Sayeed 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;Passionate+Learner+%26+Problem+Solver" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foundation in modern web technologies and a problem-solving mindset. I specialize in building responsive, secure, and scalable web applications that prioritize performance and user experience. I’m deeply committed to writing clean, maintainable code and continuously learning to stay aligned with industry best practices.
 
