@@ -41,9 +41,9 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
   
 <!--![](https://github-readme-stats.vercel.app/api?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 
-![](https://github-readme-stats.shion.dev/api?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amirsayeed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=amirsayeed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=amirsayeed&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirsayeed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -66,4 +66,5 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
