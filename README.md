@@ -47,21 +47,19 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amirsayeed&theme=onedark&title=-PullRequest,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 
-### 🔝 Top Contributed Repo
-<div align="center">
+<!-- <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=amirsayeed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+</div> -->
 
 ---
 ![](https://komarev.com/ghpvc/?username=amirsayeed&color=blue)
@@ -69,15 +67,3 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-# 📊 GitHub Stats:
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amirsayeed&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=amirsayeed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
