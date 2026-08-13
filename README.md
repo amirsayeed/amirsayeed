@@ -41,9 +41,9 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
   
 <!--![](https://github-readme-stats.vercel.app/api?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 
-![](https://nirzak-streak-stats.vercel.app/?user=amirsayeed&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=amirsayeed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirsayeed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -66,5 +66,18 @@ I’m Amir Mohammad Sayeed, a Full Stack Web Developer (MERN) with a strong foun
 ---
 ![](https://komarev.com/ghpvc/?username=amirsayeed&color=blue)
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# 📊 GitHub Stats:
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amirsayeed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=amirsayeed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
